@@ -1,0 +1,9 @@
+lib
+
+subtask*/path.sh
+subtask*/local
+subtask*/rnnlm
+subtask*/steps
+subtask*/utils
+subtask*/data
+subtask*/exp
